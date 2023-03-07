@@ -3,3 +3,6 @@ for i in range(5):
 
 print ("******************")
 print (date)
+
+import pandas
+print ("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
